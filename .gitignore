@@ -99,3 +99,20 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# add
+*.jpg
+*.jpeg
+*.bmp
+*.png
+
+events.*
+model.ckpt*
+checkpoint
+graph.pbtxt
+
+Label.txt
+*.tfrecords
+
+
+.idea/
